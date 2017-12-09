@@ -1,0 +1,2 @@
+# auditory
+cli audio visualizer
